@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Ronak @ronakb12
 - 👀 I’m interested in AI, NN, ML and new technology
-- 🌱 I’m currently pursuing my BTech in ECE
 - 😆 I am a software developer at heart
 
 <!---
